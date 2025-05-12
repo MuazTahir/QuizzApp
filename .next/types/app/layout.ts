@@ -1,4 +1,4 @@
-// File: D:\New folder\practice\js-practice\16-08-2024\next.js\Quiz app - Copy\src\app\layout.tsx
+// File: D:\New folder\practice\js-practice\16-08-2024\next.js\projects\Quiz app\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
